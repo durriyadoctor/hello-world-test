@@ -1,2 +1,2 @@
 # hello-world-test
-Playign around
+Playing around
